@@ -1,6 +1,7 @@
 print("MENU CALCULADORA");
 
-print("1.s Suma");
-print("1.s Resta");
-print("1.s Division");
-print("1.s Multipplicacion");
+print("1. Suma");
+print("2. Resta");
+print("3. Division");
+print("4. Multipplicacion");
+print("0. SALIR")
